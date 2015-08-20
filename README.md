@@ -52,7 +52,7 @@ Output:<br/>
 The total of all the names scores in the given input file is: 871198282<br/>
 Execution time: 59.489094 ms
 
-How to run he program?
+How to run the program?
 ===================================
 1. Download the Euler.jar from the dist directory on Github.<br/>
 2. Make sure you have JDK8 installed.<br/>

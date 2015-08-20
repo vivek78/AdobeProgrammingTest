@@ -57,6 +57,6 @@ How to run the program?
 1. Download the Euler.jar from the dist directory on Github.<br/>
 2. Make sure you have JDK8 installed.<br/>
 3. To run , execute the following<br/>
-java -cp D:\dist\Euler.jar solutions.Problem2<br/>
-java -cp D:\dist\Euler.jar solutions.Problem20<br/>
-java -cp D:\dist\Euler.jar solutions.Problem22<br/>
+java -cp <downloaded_location_of_jar>\Euler.jar solutions.Problem2<br/>
+java -cp <downloaded_location_of_jar>\Euler.jar solutions.Problem20<br/>
+java -cp <downloaded_location_of_jar>\Euler.jar solutions.Problem22<br/>

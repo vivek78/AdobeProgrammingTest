@@ -13,7 +13,7 @@ Algorithm:<br/>
 3. If next number in the sequence is even then add to the sum.<br/>
 
 Output:<br/>
-Sum of the even terms in the Fibonacci sequence whose value is less than 4M is : 4613732
+Sum of the even terms in the Fibonacci sequence whose value is less than 4M is : 4613732<br/>
 Execution time: 58.922133 ms
 
 
@@ -31,7 +31,7 @@ Algorithm:<br/>
 3. Add each digit to get the desired output.<br/><br/>
 
 Output:<br/>
-The sum of the digits of 100! is: 648
+The sum of the digits of 100! is: 648<br/>
 Execution time: 9.330029 ms
 
 
@@ -49,7 +49,7 @@ Algorithm:<br/>
 4. Compute the worth of each name and multiply it with the rank(position) of the name in the array to yield the desired output.<br/>
 
 Output:<br/>
-The total of all the names scores in the given input file is: 871198282
+The total of all the names scores in the given input file is: 871198282<br/>
 Execution time: 59.489094 ms
 
 How to run he program?
